@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picasso-test/static/css/main.f1fb4480.css",
+    "main.js": "/picasso-test/static/js/main.70958f8a.js",
+    "index.html": "/picasso-test/index.html",
+    "main.f1fb4480.css.map": "/picasso-test/static/css/main.f1fb4480.css.map",
+    "main.70958f8a.js.map": "/picasso-test/static/js/main.70958f8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1fb4480.css",
+    "static/js/main.70958f8a.js"
+  ]
+}
