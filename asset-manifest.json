@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/picasso-test/static/css/main.f1fb4480.css",
-    "main.js": "/picasso-test/static/js/main.f31692d5.js",
-    "index.html": "/picasso-test/index.html",
-    "main.f1fb4480.css.map": "/picasso-test/static/css/main.f1fb4480.css.map",
-    "main.f31692d5.js.map": "/picasso-test/static/js/main.f31692d5.js.map"
+    "main.css": "/static/css/main.f1fb4480.css",
+    "main.js": "/static/js/main.70958f8a.js",
+    "index.html": "/index.html",
+    "main.f1fb4480.css.map": "/static/css/main.f1fb4480.css.map",
+    "main.70958f8a.js.map": "/static/js/main.70958f8a.js.map"
   },
   "entrypoints": [
     "static/css/main.f1fb4480.css",
-    "static/js/main.f31692d5.js"
+    "static/js/main.70958f8a.js"
   ]
 }
