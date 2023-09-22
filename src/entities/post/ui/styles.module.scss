@@ -1,0 +1,21 @@
+.wrapper {
+  padding: 10px;
+  margin: 0 auto;
+  width: 50%;
+  box-shadow: 0 0 5px black;
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+}
+
+.title {
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: rgb(15, 9, 9);
+}
+
+.text {
+  font-size: 16px;
+  font-weight: 500;
+}
